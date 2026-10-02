@@ -1,0 +1,7 @@
+streamlit>=1.40
+langchain-core>=0.3
+langchain-groq>=1.0
+pydantic>=2.0
+pandas>=2.0
+python-dotenv>=1.0
+requests>=2.31
